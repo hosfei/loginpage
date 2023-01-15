@@ -33,6 +33,6 @@ loginBtn.addEventListener("click", () => {
     })
     demo.appendChild(logoutBtn)
   } else {
-    userDoesNotExist();
+   
   }
 });
